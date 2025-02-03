@@ -1,0 +1,6 @@
+2025-02-03 11:52:11,532 [ParallelWorker#6] INFO  log4net.Repository.Hierarchy.Logger - Navigating to the URL
+2025-02-03 11:52:14,474 [ParallelWorker#6] INFO  log4net.Repository.Hierarchy.Logger - Navigation successful
+2025-02-03 11:52:14,479 [ParallelWorker#6] INFO  log4net.Repository.Hierarchy.Logger - Login with username Admin and password
+2025-02-03 11:52:16,821 [ParallelWorker#6] INFO  log4net.Repository.Hierarchy.Logger - Login successful
+2025-02-03 11:52:16,822 [ParallelWorker#6] INFO  log4net.Repository.Hierarchy.Logger - Login validation in progress
+2025-02-03 11:52:17,287 [ParallelWorker#6] INFO  log4net.Repository.Hierarchy.Logger - Login validation complete

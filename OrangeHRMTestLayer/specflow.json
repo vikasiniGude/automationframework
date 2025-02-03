@@ -1,0 +1,12 @@
+{
+    "bindingCulture": {
+        "name": "en-US"
+    },
+    "runtime": {
+        "stopAtFirstError": false,
+        "parallelExecution": {
+            "testThreadCount": 4,
+            "executionMode": "SameThreadByFeature"
+        }
+    }
+}

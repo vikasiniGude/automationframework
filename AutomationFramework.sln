@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeHRM_BusinessLayer", "OrangeHRM_BusinessLayer\OrangeHRM_BusinessLayer.csproj", "{B8167870-1BC4-4D49-84B8-098E0FB54773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation_CoreLayer", "Automation_CoreLayer\Automation_CoreLayer.csproj", "{0A1BCF19-2B15-409E-82C6-AB247FC6726B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrangeHRMTestLayer", "OrangeHRMTestLayer\OrangeHRMTestLayer.csproj", "{F8EFEBFF-3C85-4AF6-939D-6953ADA7D497}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRestSharpTestLayer", "APIRestSharpTestLayer\APIRestSharpTestLayer.csproj", "{7057BA9F-7C7B-4AF0-A171-CBF4207BBDB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRestSharpBusinessLayer", "APIRestSharpBusinessLayer\APIRestSharpBusinessLayer.csproj", "{C855E0BE-53C3-4903-BAFA-4FC367B46870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIRestSharpCoreLayer", "APIRestSharpCoreLayer\APIRestSharpCoreLayer.csproj", "{E922C819-0416-4B2E-A96A-3F797836A27C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8167870-1BC4-4D49-84B8-098E0FB54773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8167870-1BC4-4D49-84B8-098E0FB54773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8167870-1BC4-4D49-84B8-098E0FB54773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8167870-1BC4-4D49-84B8-098E0FB54773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1BCF19-2B15-409E-82C6-AB247FC6726B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1BCF19-2B15-409E-82C6-AB247FC6726B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1BCF19-2B15-409E-82C6-AB247FC6726B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1BCF19-2B15-409E-82C6-AB247FC6726B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EFEBFF-3C85-4AF6-939D-6953ADA7D497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EFEBFF-3C85-4AF6-939D-6953ADA7D497}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EFEBFF-3C85-4AF6-939D-6953ADA7D497}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EFEBFF-3C85-4AF6-939D-6953ADA7D497}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7057BA9F-7C7B-4AF0-A171-CBF4207BBDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7057BA9F-7C7B-4AF0-A171-CBF4207BBDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7057BA9F-7C7B-4AF0-A171-CBF4207BBDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7057BA9F-7C7B-4AF0-A171-CBF4207BBDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C855E0BE-53C3-4903-BAFA-4FC367B46870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C855E0BE-53C3-4903-BAFA-4FC367B46870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C855E0BE-53C3-4903-BAFA-4FC367B46870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C855E0BE-53C3-4903-BAFA-4FC367B46870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E922C819-0416-4B2E-A96A-3F797836A27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E922C819-0416-4B2E-A96A-3F797836A27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E922C819-0416-4B2E-A96A-3F797836A27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E922C819-0416-4B2E-A96A-3F797836A27C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

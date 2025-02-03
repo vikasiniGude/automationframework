@@ -1,0 +1,3 @@
+2025-02-02 22:02:36,753 [17] INFO  log4net.Repository.Hierarchy.Logger - Navigating to the URL
+2025-02-02 22:02:38,221 [17] INFO  log4net.Repository.Hierarchy.Logger - Navigation successful
+2025-02-02 22:02:38,227 [17] INFO  log4net.Repository.Hierarchy.Logger - Login with username Admin and password

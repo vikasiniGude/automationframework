@@ -1,0 +1,11 @@
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\bin\Release\net6.0\OrangeHRM_BusinessLayer.deps.json
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\bin\Release\net6.0\OrangeHRM_BusinessLayer.dll
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\bin\Release\net6.0\OrangeHRM_BusinessLayer.pdb
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\OrangeHRM_BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\OrangeHRM_BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\OrangeHRM_BusinessLayer.AssemblyInfo.cs
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\OrangeHRM_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\OrangeHRM_BusinessLayer.dll
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\refint\OrangeHRM_BusinessLayer.dll
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\OrangeHRM_BusinessLayer.pdb
+C:\Users\gondi_vikasini\source\repos\previous\AutomationFramework\OrangeHRM_BusinessLayer\obj\Release\net6.0\ref\OrangeHRM_BusinessLayer.dll

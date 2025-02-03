@@ -1,0 +1,8 @@
+2025-02-03 11:45:30,347 [ParallelWorker#1] INFO  log4net.Repository.Hierarchy.Logger - Navigating to the URL
+2025-02-03 11:45:30,376 [ParallelWorker#2] INFO  log4net.Repository.Hierarchy.Logger - Navigating to the URL
+2025-02-03 11:45:33,197 [ParallelWorker#1] INFO  log4net.Repository.Hierarchy.Logger - Navigation successful
+2025-02-03 11:45:33,203 [ParallelWorker#1] INFO  log4net.Repository.Hierarchy.Logger - Login with username Admin and password
+2025-02-03 11:45:33,580 [ParallelWorker#2] INFO  log4net.Repository.Hierarchy.Logger - Navigation successful
+2025-02-03 11:45:33,581 [ParallelWorker#2] INFO  log4net.Repository.Hierarchy.Logger - Login with username Admin and password
+2025-02-03 11:45:36,355 [ParallelWorker#2] ERROR log4net.Repository.Hierarchy.Logger - Error: at click method for By.XPath: //button[@type='submit'], An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:55852/session/777c09cfc7342ad9973820f8fe1e6bdb/element/f.FFD73B19B9B451FC2D1DE774134AB761.d.4C7F11E85EA692DDB4C7AD84F1CF3B00.e.8/click. The exception message was: An error occurred while sending the request.
+2025-02-03 11:45:36,355 [ParallelWorker#2] ERROR log4net.Repository.Hierarchy.Logger - Failed: at WhenIInputTheUsernamePasswordAndClickOnLogin- An unknown exception was encountered sending an HTTP request to the remote WebDriver server for URL http://localhost:55852/session/777c09cfc7342ad9973820f8fe1e6bdb/element/f.FFD73B19B9B451FC2D1DE774134AB761.d.4C7F11E85EA692DDB4C7AD84F1CF3B00.e.8/click. The exception message was: An error occurred while sending the request.
